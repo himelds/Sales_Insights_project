@@ -55,6 +55,6 @@ This project is a guided **Sales Insights Dashboard** challenge led by the amazi
 
 ## 🙋‍♂️ Let's Connect
 
-📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/himelds/)
+📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/dashimel/)
 
 ---
